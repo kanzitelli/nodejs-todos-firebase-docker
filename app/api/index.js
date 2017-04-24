@@ -32,12 +32,7 @@ const getTodoById = (id) => {
   });
 }
 
-// const createTodoWithData = (data) => {
-//
-// }
-
 module.exports = {
   getTodos,
   getTodoById,
-  // createTodoWithData,
 }

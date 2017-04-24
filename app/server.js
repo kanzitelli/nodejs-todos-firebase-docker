@@ -15,10 +15,6 @@ app.get('/todos', (req, res) => {
     })
 });
 
-// app.post('/todos', (req, res) => {
-//   res.json({ message: 'post /todos' });
-// });
-
 app.get('/todos/:id', (req, res) => {
   let id = req.params.id || 0;
 
