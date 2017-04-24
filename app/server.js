@@ -1,7 +1,7 @@
 const express = require('express');
 const app     = express();
 const api     = require('./api');
-const PORT    = 8080;
+const PORT    = 80;
 
 
 app.get('/', (req, res) => {
@@ -15,9 +15,9 @@ app.get('/todos', (req, res) => {
     })
 });
 
-app.post('/todos', (req, res) => {
-  res.json({ message: 'post /todos' });
-});
+// app.post('/todos', (req, res) => {
+//   res.json({ message: 'post /todos' });
+// });
 
 app.get('/todos/:id', (req, res) => {
   let id = req.params.id || 0;
