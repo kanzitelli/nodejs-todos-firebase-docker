@@ -1,6 +1,7 @@
 # todo-list app
 
 `todo-list app` is a RESTful web service that runs in docker container.
+[Presentation link](https://docs.google.com/presentation/d/1DxLB03urxXP9DB9vwteOqBaM_5p5vGuUSDMyHv7_Fyg/edit?usp=sharing)
 
 # Stack of technologies
 
