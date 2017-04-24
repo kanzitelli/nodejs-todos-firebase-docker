@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_app",
+  "version": "1.0.0",
+  "description": "Assignment#5",
+  "author": "Batyr Kanzitdinov <bk69591n@pace.edu>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "firebase": "^3.8.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
