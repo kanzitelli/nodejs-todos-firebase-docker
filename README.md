@@ -22,5 +22,8 @@ NodeJS (express.js) + Docker + Firebase + React Native
 This app was deployed to Docker Cloud in order to create a React Native app that is going to be a front-end part of this project. If you would like to check if it is running, go to [this site](http://lb.nodejsappstack.13d9f42b.svc.dockerapp.io/todos) and it will display all todos in JSON format.
 ![JSON result](https://www.dropbox.com/s/ul81omzp7oduic4/assignment%235_json.png?dl=1)
 
+This is how data looks like in Firebase.
+![Data model structure](https://www.dropbox.com/s/1wewaodvzf4gvzz/assignment%235_firebase_structure.png?dl=1)
+
 Code for the React Native app is located [here](https://snack.expo.io/Bysp66s0l).
 ![React Native app](https://www.dropbox.com/s/ae2mkpb6pcxjhkg/assignment%235_rn_pic.png?dl=1)
